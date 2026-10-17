@@ -8,3 +8,9 @@ Technical terms, commands, identifiers, file paths, URLs, and short labels may r
 
 This convention applies to documentation prose, including recorded generation prompts; it does not request bilingual text inside logos or UI labels. Preserve original English prompt wording when adding translations.  
 이 규칙은 기록된 생성 프롬프트를 포함한 문서 설명에 적용되며, 로고나 UI 레이블에 한영 병기를 추가하라는 뜻은 아닙니다. 번역을 추가할 때 기존 영어 프롬프트 원문을 보존합니다.
+
+Keep only the current logo proposal and a concise branding guide in the project; do not accumulate numbered logo variants or version-by-version generation records unless requested. Use Git history for past changes.  
+프로젝트에는 현재 로고 시안과 간결한 브랜드 안내만 유지하며, 요청이 없는 한 번호가 붙은 로고 시안이나 버전별 생성 기록을 계속 쌓지 않습니다. 과거 변경 사항은 Git 이력으로 관리합니다.
+
+Treat the logo as a proposal until the user explicitly confirms final approval.  
+사용자가 최종 확정을 명시하기 전까지 로고는 검토 중인 시안으로 취급합니다.

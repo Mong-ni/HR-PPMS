@@ -2,6 +2,8 @@
 
 **Plant Punch Management System**
 
+![HR-PPMS logo](assets/branding/hr-ppms-logo.png)
+
 HR-PPMS supports punch registration, assignment, corrective action tracking, completion approval, and status dashboards for Hyundai Rotem plant projects.  
 HR-PPMS는 현대로템 플랜트 프로젝트에서 펀치 등록, 담당자 지정, 조치 결과 관리, 완료 승인, 현황 대시보드까지 지원하는 펀치 관리 시스템입니다.
 
@@ -22,3 +24,6 @@ Use the website display name for website titles and the brand name for concise l
 
 Use the official system name in formal documents.  
 공식 문서에는 시스템 공식 명칭을 사용합니다.
+
+See the [branding guide](assets/branding/README.md) for the current logo proposal and its sources; the design is still under review.  
+현재 로고 시안과 출처는 [브랜드 안내](assets/branding/README.md)를 참고합니다. 디자인은 아직 검토 중입니다.
